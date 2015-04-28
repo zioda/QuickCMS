@@ -19,8 +19,8 @@ if( defined( 'DEVELOPER_MODE' ) ){
 * Dbaj o ich bezpieczeństwo. Nie ustawiaj hasła na "admin", "1234", "qwerty" itp.
 * Więcej: http://opensolution.org/docs/?p=pl-settings#login_email
 */
-$config['login_email'] = "";
-$config['login_pass'] = "";
+$config['login_email'] = "zioda1992@gmail.com";
+$config['login_pass'] = "zioda1992";
 
 /*
 * Ustawienie adresu IP do logowania do administracji
